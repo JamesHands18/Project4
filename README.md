@@ -33,3 +33,11 @@ Cut of the diamond
 Depth of the diamond
 
 Sale price of the diamond
+
+
+
+
+### To find:
+
+- Our Aim and will we do? 
+- 
