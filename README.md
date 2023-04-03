@@ -24,20 +24,22 @@
 
 
 
-### Which coloumn we would need:
-
-Carat of the diamond
-
-Cut of the diamond
-
-Depth of the diamond
-
-Sale price of the diamond
 
 
+### ~To do:
+
+- Data Extraction, Cleaning - James - *Panda
+- Make string coloumns numerical ( foe examples b'Ideal equal to 1)
+- Data analysis
+- Push into *SQL dataset
+- Building the Linear regression model
+- Testing the Linear regression model 
+optional
+- Building the Neural Network
+- Testing the Neural Network
+- *Tableau
+- Creating documentation
+- Creating the presentation
 
 
-### To find:
 
-- Our Aim and will we do? 
-- 
