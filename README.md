@@ -12,7 +12,7 @@
 
 
 
-Questions to potentially ask:
+### Questions to potentially ask:
 
 1 - the average price of diamond for each carat range
 
@@ -23,7 +23,8 @@ Questions to potentially ask:
 4 - which diamonds are most expensive type
 
 
-Which coloumn we would need:
+
+### Which coloumn we would need:
 
 Carat of the diamond
 
