@@ -29,7 +29,7 @@
 ### ~To do:
 
 - Data Extraction, Cleaning - James - *Panda*
-- Make string coloumns numerical ( foe examples b'Ideal equal to 1)
+- Make string coloumns numerical ( foe examples b'Ideal equal to 1) - Dalitso
 - Data analysis
 -- Building the Linear regression model - Tharu
 - Testing the Linear regression model - Tharu
