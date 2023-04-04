@@ -29,17 +29,18 @@
 ### ~To do:
 
 - Data Extraction, Cleaning - James - *Panda*
-- Make string coloumns numerical ( foe examples b'Ideal equal to 1)
-- Data analysis
--- Building the Linear regression model
-- Testing the Linear regression model 
-optional
-- Building the Neural Network
-- Testing the Neural Network
-- Push into *SQL dataset*
-- *Tableau*
-- Creating documentation
+- Make string coloumns numerical ( foe examples b'Ideal equal to 1) - James
+- Data analysis (option)
+-- Building the Linear regression model - Dalitso
+- Testing the Linear regression model - Dalitso
+- Building the Neural Network - Tharu
+- Testing the Neural Network - Tharu
+- Push into *SQL dataset* - Jade
+- *Tableau* (option)
+
+
+- Creating documentation (assume readme)
 - Creating the presentation
 
-
+## REMEMBER SCREENSHOTS AS YOU GO :)
 
