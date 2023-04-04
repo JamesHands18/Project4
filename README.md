@@ -33,7 +33,9 @@
 - Data analysis
 -- Building the Linear regression model - Tharu
 - Testing the Linear regression model - Tharu
+
 optional
+
 - Building the Neural Network
 - Testing the Neural Network
 - Push into *SQL dataset*
