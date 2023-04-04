@@ -37,7 +37,7 @@ optional
 - Building the Neural Network
 - Testing the Neural Network
 - Push into *SQL dataset*
-- *Tableau*
+- *Tableau* - Dalitso
 
 
 - Creating documentation (assume readme)
