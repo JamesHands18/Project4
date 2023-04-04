@@ -31,14 +31,16 @@
 - Data Extraction, Cleaning - James - *Panda*
 - Make string coloumns numerical ( foe examples b'Ideal equal to 1)
 - Data analysis
--- Building the Linear regression model
-- Testing the Linear regression model 
+-- Building the Linear regression model - Tharu
+- Testing the Linear regression model - Tharu
 optional
 - Building the Neural Network
 - Testing the Neural Network
 - Push into *SQL dataset*
 - *Tableau*
-- Creating documentation
+
+
+- Creating documentation (assume readme)
 - Creating the presentation
 
 
