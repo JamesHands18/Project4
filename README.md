@@ -1,5 +1,6 @@
 # Project4
 
+# Bright like a diamond 
 
 - Find a problem worth solving, analyzing, or visualizing. - https://www.kaggle.com/datasets/ulrikthygepedersen/diamonds?resource=download
 - Use machine learning (ML) with the technologies we’ve learned. - Linear regression model 
