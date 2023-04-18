@@ -30,12 +30,23 @@
 - Database Construction – SQL (pgAdmin)
 
 ### FINDINGS: Linear Regression Model:
+The Linear Regression Model used the scaled_df dataframe to create a model that would predict the price of a diamond based on how many carats the diamond had.
+<img width="440" alt="Lin Regress" src="https://user-images.githubusercontent.com/112433621/232873189-133c3153-fc3b-4e87-8318-2126fceb2910.png">
+- As part of building the model, we split the data into two sets. One set for training the model and the second set was for testing the model's perfomance.
+<img width="414" alt="the model" src="https://user-images.githubusercontent.com/112433621/232879809-78d50d30-5a2e-49c0-9cc5-ff88301f15cd.png">
 
+- The following image (below) shows results of our models performance . The mean Squared error is 0.09% which is a decent result for our model.
+<img width="548" alt="Final outcomes" src="https://user-images.githubusercontent.com/112433621/232880456-ce386f05-20bd-4230-a170-800deece5c19.png">
+ Another way to visualise the result is to create charts. We created a chart to see if any of the variables have an effect on price, and we noticed that carat had a direct effect on price. 
+
+<img width="536" alt="carat vs price" src="https://user-images.githubusercontent.com/112433621/232893015-51e5d213-1599-4bf8-abb0-60b236e7c2e7.png">
+
+In conclusion for this model, it would be great to maybe learn new ways of tweaking the data to enable more tests with several variables regardless of their datatype as this would help paint a clearer picture of just how functional and applicable the model can be. It would also help make comparisons between feature variables and their effect on our models perfomance and outcomes. 
 ### FINDINGS: Neural Network:
 
 NEURAL NETWORK (WITH THE SPECIFICATIONS SHOWN) PERFORMED POORLY.
 
-R2 SCORE WAS USED TO EVALUATE THE PERFORMANCE OF THE RECRESSION BASED MODEL.
+R2 SCORE WAS USED TO EVALUATE THE PERFORMANCE OF THE REGRESSION BASED MODEL.
 
 THE MEAN SQUARED ERROR WAS USED TO CALCULATE THE DIFFERENCE BETWEEN A PREDICTED VALUE AND THE ACTUAL ONE.
 
