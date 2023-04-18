@@ -2,7 +2,8 @@
 
 # Shine Bright Like A Diamond 
 
-![pexels-dima-valkov-3266703 (1)](https://user-images.githubusercontent.com/112433621/232855097-b190e993-3bce-4094-ae1a-87084f3ba03e.jpg)
+![Clarity Chart](https://user-images.githubusercontent.com/112433621/232899353-2ab1aa5d-e240-42fb-b6c7-eb06f8d6108f.jpg)
+
 
 ## TABLE OF CONTENTS:
 - PURPOSE OF PROJECT
@@ -28,6 +29,10 @@
 - Data Model Testing – Neural Network 
 - Data Model Testing – Random Forest Regression
 - Database Construction – SQL (pgAdmin)
+## Data Cleaning 
+<img width="792" alt="Reading n cleaning" src="https://user-images.githubusercontent.com/112433621/232897617-d640c5cc-51de-4052-a92d-9849e2668dd5.png">
+## Scaling the Data
+<img width="941" alt="Scaling the Data" src="https://user-images.githubusercontent.com/112433621/232898871-acc1f311-9c84-42bd-95ad-98e7be17beea.png">
 
 ### FINDINGS: Linear Regression Model:
 The Linear Regression Model used the scaled_df dataframe to create a model that would predict the price of a diamond based on how many carats the diamond had.
