@@ -1,6 +1,6 @@
 # Project4
 
-# Shine Bright like a diamond 
+# Shine Bright Like A Diamond 
 
 ![pexels-dima-valkov-3266703 (1)](https://user-images.githubusercontent.com/112433621/232855097-b190e993-3bce-4094-ae1a-87084f3ba03e.jpg)
 
@@ -21,7 +21,7 @@
 - The dataset utilised for the analysis contains the prices and other attributes of over 54,000 different diamonds.​
 - The dataset is derived via a CSV download from Kaggle: (https://www.kaggle.com/datasets/ulrikthygepedersen/diamonds?resource=download
 
-## METHOODS
+## METHODS
 
 - Data Extraction and Cleaning – Python Pandas
 - Data Model Testing – Linear Regression Model
