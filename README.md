@@ -58,7 +58,7 @@ RANDOM FOREST MODEL (WITH THE SPECIFICATIONS SHOWN) PREDICTED PRICE WITH AN EXTR
   - Ideally we could have found an API that connected directly to the source of the research to avoid intermediary issues.​
 
 
-- Another possible activity we could have done to improve our presentation could have been building an website interactive website where we could have showcased different specifications of diamonds.
+- Another possible activity we could have done to improve our presentation could have been building an interactive website where we could have showcased different specifications of diamonds.
 
   - An example could have been: "what are the most common diamonds and what is their price?"
 
