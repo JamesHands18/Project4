@@ -67,7 +67,7 @@ RANDOM FOREST MODEL (WITH THE SPECIFICATIONS SHOWN) PREDICTED PRICE WITH AN EXTR
 
 ## WHAT ELSE COULD WE HAVE DONE
 
-- Ideally, we could have looked into the dataset's quality. Through Tableau we could have analysed the data from a different angle.​
+- Ideally, we could have looked into the dataset's quality. Through Tableau we could have analysed the data differently.​
 
   - Especially since one of the most common issues faced within machine learning is the quality of the data.​
 
