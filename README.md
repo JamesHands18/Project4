@@ -67,7 +67,7 @@ RANDOM FOREST MODEL (WITH THE SPECIFICATIONS SHOWN) PREDICTED PRICE WITH AN EXTR
 
 ## WHAT ELSE COULD WE HAVE DONE
 
-- Ideally, we could have looked into the dataset's quality. Through tableau we could have analysed the data from a different.​
+- Ideally, we could have looked into the dataset's quality. Through Tableau we could have analysed the data from a different angle.​
 
   - Especially since one of the most common issues faced within machine learning is the quality of the data.​
 
@@ -84,5 +84,5 @@ The dataset was not suitable for neural networks despite using linear regression
 
 However, Random Forest Regression suits continuous variables and is comfortably able to handle large datasets. The Random Forest Regression, in addition does not need normalisation, which is ideal for a dataset such as ours.​
 
-Due to the complicated and complex, trying to import the CSV into SQL(pgAdmin) was a challenge.
+Due to the complexity, trying to import the CSV into SQL(pgAdmin) was a challenge.
 
